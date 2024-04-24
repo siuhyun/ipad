@@ -1,5 +1,7 @@
 # [iPad Korea](https://ipad-sandy.vercel.app/)
  반응형 웹사이트 클론코딩
+ ![Mac Studio_ipad](https://github.com/siuhyun/ipad/assets/149446617/3504f90e-9a7f-44a7-b09f-faa8383eb04f)
+
 
 ## 🖥️ Summary
 **iPad Korea 웹 사이트를 클론 코딩한 프로젝트**입니다.  검색 기능, 장바구니 기능, 화면 사이즈에 따른 레이아웃 변경, 네비게이션 메뉴 토글, 요소의 가시성 관찰, 비디오 재생 기능, iPad 정보 렌더링과 같은 주요 기능들을 수행하는데 필요한 이벤트 핸들링과 DOM 조작을 구현하고 있습니다.
